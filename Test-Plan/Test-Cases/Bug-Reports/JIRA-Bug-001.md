@@ -1,4 +1,5 @@
 # JIRA Bug Report 001
+**Jira Ticket:** https://karimyassenn.atlassian.net/browse/KAN-1
 
 **Title:** Checkout: First Name changes when entering Last Name (problem_user)  
 **Priority:** High  
